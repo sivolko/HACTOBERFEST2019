@@ -1,0 +1,7 @@
+
+
+$ chmod a+x name.sh
+$ ./name.sh shubhendu-shubham
+My first name is shubhendu
+My surname is sivolkovosky
+Total number of arguments is 2
